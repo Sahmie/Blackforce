@@ -1,0 +1,10 @@
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.content {
+  border: 2px solid orange;
+  margin: 10px;
+}
